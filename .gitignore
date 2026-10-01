@@ -1,0 +1,13 @@
+# Artefatos de build e release (binários NUNCA entram no Git; vão como assets de release)
+Release_Installers/
+dist-*/*
+*.exe
+*.apk
+*.aab
+*.msi
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
